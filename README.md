@@ -1,6 +1,5 @@
 ## Docker Swarm & Stack Tutorial
 
-Video Tutorial: https://youtu.be/m6WgX_LBtEk
 
 To run this locally, run:
 
